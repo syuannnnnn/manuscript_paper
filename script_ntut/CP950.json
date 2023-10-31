@@ -1,0 +1,1452 @@
+{
+  "CP950": [
+    {
+      "BIG5": "0xB76E",
+      "UNICODE": "0X6416"
+    },
+    {
+      "BIG5": "0xBEF0",
+      "UNICODE": "0X6A39"
+    },
+    {
+      "BIG5": "0xB4DD",
+      "UNICODE": "0X6B98"
+    },
+    {
+      "BIG5": "0xAB69",
+      "UNICODE": "0X52C7"
+    },
+    {
+      "BIG5": "0x6A",
+      "UNICODE": "0X6A"
+    },
+    {
+      "BIG5": "0xA562",
+      "UNICODE": "0X534A"
+    },
+    {
+      "BIG5": "0xADDB",
+      "UNICODE": "0X502B"
+    },
+    {
+      "BIG5": "0xAB47",
+      "UNICODE": "0X4EAE"
+    },
+    {
+      "BIG5": "0xB05F",
+      "UNICODE": "0X8D77"
+    },
+    {
+      "BIG5": "0xA970",
+      "UNICODE": "0X59B3"
+    },
+    {
+      "BIG5": "0xA6B1",
+      "UNICODE": "0X66F2"
+    },
+    {
+      "BIG5": "0xA853",
+      "UNICODE": "0X6C92"
+    },
+    {
+      "BIG5": "0xA9EE",
+      "UNICODE": "0X62C6"
+    },
+    {
+      "BIG5": "0xA678",
+      "UNICODE": "0X5BFA"
+    },
+    {
+      "BIG5": "0xB14F",
+      "UNICODE": "0X5C60"
+    },
+    {
+      "BIG5": "0xAFC9",
+      "UNICODE": "0X7D1B"
+    },
+    {
+      "BIG5": "0xAE7B",
+      "UNICODE": "0X5F92"
+    },
+    {
+      "BIG5": "0xA6B3",
+      "UNICODE": "0X6709"
+    },
+    {
+      "BIG5": "0xA8D3",
+      "UNICODE": "0X4F86"
+    },
+    {
+      "BIG5": "0xC4C6",
+      "UNICODE": "0X98C4"
+    },
+    {
+      "BIG5": "0xA446",
+      "UNICODE": "0X4E86"
+    },
+    {
+      "BIG5": "0xA55F",
+      "UNICODE": "0X5317"
+    },
+    {
+      "BIG5": "0xAECC",
+      "UNICODE": "0X6643"
+    },
+    {
+      "BIG5": "0xC163",
+      "UNICODE": "0X7E41"
+    },
+    {
+      "BIG5": "0xADA5",
+      "UNICODE": "0X90CA"
+    },
+    {
+      "BIG5": "0xBAA9",
+      "UNICODE": "0X6F2B"
+    },
+    {
+      "BIG5": "0xA5A2",
+      "UNICODE": "0X5931"
+    },
+    {
+      "BIG5": "0xA5FA",
+      "UNICODE": "0X5149"
+    },
+    {
+      "BIG5": "0xB950",
+      "UNICODE": "0X9041"
+    },
+    {
+      "BIG5": "0xC071",
+      "UNICODE": "0X9ED8"
+    },
+    {
+      "BIG5": "0xB260",
+      "UNICODE": "0X6DF1"
+    },
+    {
+      "BIG5": "0xA555",
+      "UNICODE": "0X518A"
+    },
+    {
+      "BIG5": "0xC2BC",
+      "UNICODE": "0X7FF9"
+    },
+    {
+      "BIG5": "0xB87A",
+      "UNICODE": "0X8178"
+    },
+    {
+      "BIG5": "0xA965",
+      "UNICODE": "0X59D4"
+    },
+    {
+      "BIG5": "0xB7D9",
+      "UNICODE": "0X715E"
+    },
+    {
+      "BIG5": "0xADB1",
+      "UNICODE": "0X9762"
+    },
+    {
+      "BIG5": "0xB5A5",
+      "UNICODE": "0X7B49"
+    },
+    {
+      "BIG5": "0xBF4F",
+      "UNICODE": "0X71C8"
+    },
+    {
+      "BIG5": "0xABB5",
+      "UNICODE": "0X594F"
+    },
+    {
+      "BIG5": "0xACB0",
+      "UNICODE": "0X70BA"
+    },
+    {
+      "BIG5": "0xA8A3",
+      "UNICODE": "0X898B"
+    },
+    {
+      "BIG5": "0xABE1",
+      "UNICODE": "0X5F8C"
+    },
+    {
+      "BIG5": "0xA4C4",
+      "UNICODE": "0X52FE"
+    },
+    {
+      "BIG5": "0xC25F",
+      "UNICODE": "0X65B7"
+    },
+    {
+      "BIG5": "0xA1AD",
+      "UNICODE": "0XFF03"
+    },
+    {
+      "BIG5": "0xA45D",
+      "UNICODE": "0X4E5F"
+    },
+    {
+      "BIG5": "0xC16E",
+      "UNICODE": "0X8072"
+    },
+    {
+      "BIG5": "0xBAA1",
+      "UNICODE": "0X6EFF"
+    },
+    {
+      "BIG5": "0xB3CC",
+      "UNICODE": "0X6700"
+    },
+    {
+      "BIG5": "0xB2D6",
+      "UNICODE": "0X7D2F"
+    },
+    {
+      "BIG5": "0xAB42",
+      "UNICODE": "0X96E8"
+    },
+    {
+      "BIG5": "0xA9A4",
+      "UNICODE": "0X5CB8"
+    },
+    {
+      "BIG5": "0xA56A",
+      "UNICODE": "0X53E4"
+    },
+    {
+      "BIG5": "0xB4E7",
+      "UNICODE": "0X6E21"
+    },
+    {
+      "BIG5": "0xC2F9",
+      "UNICODE": "0X96D9"
+    },
+    {
+      "BIG5": "0xA668",
+      "UNICODE": "0X591A"
+    },
+    {
+      "BIG5": "0xB171",
+      "UNICODE": "0X5F9E"
+    },
+    {
+      "BIG5": "0x3A",
+      "UNICODE": "0X3A"
+    },
+    {
+      "BIG5": "0xA96C",
+      "UNICODE": "0X59CB"
+    },
+    {
+      "BIG5": "0xA440",
+      "UNICODE": "0X4E00"
+    },
+    {
+      "BIG5": "0xB9D0",
+      "UNICODE": "0X5875"
+    },
+    {
+      "BIG5": "0xBBB7",
+      "UNICODE": "0X9060"
+    },
+    {
+      "BIG5": "0xB7C5",
+      "UNICODE": "0X6EAB"
+    },
+    {
+      "BIG5": "0xA4F1",
+      "UNICODE": "0X6BD4"
+    },
+    {
+      "BIG5": "0xAFE0",
+      "UNICODE": "0X80FD"
+    },
+    {
+      "BIG5": "0xAE79",
+      "UNICODE": "0X5EA7"
+    },
+    {
+      "BIG5": "0xA4D1",
+      "UNICODE": "0X5929"
+    },
+    {
+      "BIG5": "0xB568",
+      "UNICODE": "0X75DB"
+    },
+    {
+      "BIG5": "0xB6F0",
+      "UNICODE": "0X5854"
+    },
+    {
+      "BIG5": "0xA7E2",
+      "UNICODE": "0X628A"
+    },
+    {
+      "BIG5": "0xBBE9",
+      "UNICODE": "0X99C1"
+    },
+    {
+      "BIG5": "0xA7F8",
+      "UNICODE": "0X6751"
+    },
+    {
+      "BIG5": "0xAB43",
+      "UNICODE": "0X9752"
+    },
+    {
+      "BIG5": "0xAB65",
+      "UNICODE": "0X524D"
+    },
+    {
+      "BIG5": "0xBEAE",
+      "UNICODE": "0X51DD"
+    },
+    {
+      "BIG5": "0xACEE",
+      "UNICODE": "0X79CB"
+    },
+    {
+      "BIG5": "0xBCD3",
+      "UNICODE": "0X6A13"
+    },
+    {
+      "BIG5": "0xBDFA",
+      "UNICODE": "0X8F29"
+    },
+    {
+      "BIG5": "0xA448",
+      "UNICODE": "0X4EBA"
+    },
+    {
+      "BIG5": "0x41",
+      "UNICODE": "0X41"
+    },
+    {
+      "BIG5": "0xB36F",
+      "UNICODE": "0X9019"
+    },
+    {
+      "BIG5": "0xA8BA",
+      "UNICODE": "0X90A3"
+    },
+    {
+      "BIG5": "0xC1E9",
+      "UNICODE": "0X937E"
+    },
+    {
+      "BIG5": "0xBDD2",
+      "UNICODE": "0X8AB2"
+    },
+    {
+      "BIG5": "0xC3A4",
+      "UNICODE": "0X74E3"
+    },
+    {
+      "BIG5": "0xB8F1",
+      "UNICODE": "0X8DE1"
+    },
+    {
+      "BIG5": "0xACBD",
+      "UNICODE": "0X72E0"
+    },
+    {
+      "BIG5": "0xACDD",
+      "UNICODE": "0X770B"
+    },
+    {
+      "BIG5": "0xB4B2",
+      "UNICODE": "0X6563"
+    },
+    {
+      "BIG5": "0xA8E2",
+      "UNICODE": "0X5169"
+    },
+    {
+      "BIG5": "0xB8FB",
+      "UNICODE": "0X8F03"
+    },
+    {
+      "BIG5": "0xA47E",
+      "UNICODE": "0X624D"
+    },
+    {
+      "BIG5": "0xBDF6",
+      "UNICODE": "0X8EBA"
+    },
+    {
+      "BIG5": "0xB6F2",
+      "UNICODE": "0X584C"
+    },
+    {
+      "BIG5": "0xC1C2",
+      "UNICODE": "0X8B1D"
+    },
+    {
+      "BIG5": "0xB8F2",
+      "UNICODE": "0X8DDF"
+    },
+    {
+      "BIG5": "0xC55D",
+      "UNICODE": "0X9B54"
+    },
+    {
+      "BIG5": "0xC2E0",
+      "UNICODE": "0X8F49"
+    },
+    {
+      "BIG5": "0xA455",
+      "UNICODE": "0X4E0B"
+    },
+    {
+      "BIG5": "0xB06A",
+      "UNICODE": "0X8FF4"
+    },
+    {
+      "BIG5": "0xAFC8",
+      "UNICODE": "0X7D19"
+    },
+    {
+      "BIG5": "0xA46A",
+      "UNICODE": "0X5927"
+    },
+    {
+      "BIG5": "0xBFE1",
+      "UNICODE": "0X8E44"
+    },
+    {
+      "BIG5": "0xAF42",
+      "UNICODE": "0X6D6E"
+    },
+    {
+      "BIG5": "0xBCD2",
+      "UNICODE": "0X6A21"
+    },
+    {
+      "BIG5": "0xAFBA",
+      "UNICODE": "0X7B11"
+    },
+    {
+      "BIG5": "0xAABA",
+      "UNICODE": "0X7684"
+    },
+    {
+      "BIG5": "0xBC75",
+      "UNICODE": "0X5F48"
+    },
+    {
+      "BIG5": "0xC1D9",
+      "UNICODE": "0X9084"
+    },
+    {
+      "BIG5": "0xACF5",
+      "UNICODE": "0X7D05"
+    },
+    {
+      "BIG5": "0xC1F7",
+      "UNICODE": "0X971C"
+    },
+    {
+      "BIG5": "0xA952",
+      "UNICODE": "0X547D"
+    },
+    {
+      "BIG5": "0xBEFA",
+      "UNICODE": "0X6B77"
+    },
+    {
+      "BIG5": "0xB2D7",
+      "UNICODE": "0X7D42"
+    },
+    {
+      "BIG5": "0xBE4A",
+      "UNICODE": "0X9187"
+    },
+    {
+      "BIG5": "0xB161",
+      "UNICODE": "0X5E36"
+    },
+    {
+      "BIG5": "0xA6E2",
+      "UNICODE": "0X8272"
+    },
+    {
+      "BIG5": "0xA5BB",
+      "UNICODE": "0X672C"
+    },
+    {
+      "BIG5": "0xC2C2",
+      "UNICODE": "0X820A"
+    },
+    {
+      "BIG5": "0xBC53",
+      "UNICODE": "0X562F"
+    },
+    {
+      "BIG5": "0xAAC5",
+      "UNICODE": "0X7A7A"
+    },
+    {
+      "BIG5": "0xB7C9",
+      "UNICODE": "0X6EC4"
+    },
+    {
+      "BIG5": "0xA44A",
+      "UNICODE": "0X5165"
+    },
+    {
+      "BIG5": "0xAC4F",
+      "UNICODE": "0X662F"
+    },
+    {
+      "BIG5": "0xABF4",
+      "UNICODE": "0X62DC"
+    },
+    {
+      "BIG5": "0xB5B2",
+      "UNICODE": "0X7D50"
+    },
+    {
+      "BIG5": "0xAEF0",
+      "UNICODE": "0X6C23"
+    },
+    {
+      "BIG5": "0xAEF8",
+      "UNICODE": "0X6D88"
+    },
+    {
+      "BIG5": "0xB942",
+      "UNICODE": "0X904B"
+    },
+    {
+      "BIG5": "0xB1DF",
+      "UNICODE": "0X665A"
+    },
+    {
+      "BIG5": "0xA656",
+      "UNICODE": "0X5411"
+    },
+    {
+      "BIG5": "0xA4A4",
+      "UNICODE": "0X4E2D"
+    },
+    {
+      "BIG5": "0xB3A3",
+      "UNICODE": "0X90FD"
+    },
+    {
+      "BIG5": "0xB1A1",
+      "UNICODE": "0X60C5"
+    },
+    {
+      "BIG5": "0xB2C3",
+      "UNICODE": "0X7B1B"
+    },
+    {
+      "BIG5": "0xADD3",
+      "UNICODE": "0X500B"
+    },
+    {
+      "BIG5": "0xB7F8",
+      "UNICODE": "0X76DE"
+    },
+    {
+      "BIG5": "0xB2F6",
+      "UNICODE": "0X83AB"
+    },
+    {
+      "BIG5": "0xBFBA",
+      "UNICODE": "0X8569"
+    },
+    {
+      "BIG5": "0xB0DD",
+      "UNICODE": "0X554F"
+    },
+    {
+      "BIG5": "0xA950",
+      "UNICODE": "0X5468"
+    },
+    {
+      "BIG5": "0xACA5",
+      "UNICODE": "0X6D1B"
+    },
+    {
+      "BIG5": "0xB754",
+      "UNICODE": "0X6101"
+    },
+    {
+      "BIG5": "0xADE4",
+      "UNICODE": "0X51CB"
+    },
+    {
+      "BIG5": "0xB94C",
+      "UNICODE": "0X904E"
+    },
+    {
+      "BIG5": "0xBB7B",
+      "UNICODE": "0X8A8D"
+    },
+    {
+      "BIG5": "0xB16F",
+      "UNICODE": "0X5F97"
+    },
+    {
+      "BIG5": "0xA5F7",
+      "UNICODE": "0X4EFD"
+    },
+    {
+      "BIG5": "0xC052",
+      "UNICODE": "0X975C"
+    },
+    {
+      "BIG5": "0xA1AF",
+      "UNICODE": "0XFF0A"
+    },
+    {
+      "BIG5": "0xBBD5",
+      "UNICODE": "0X95A3"
+    },
+    {
+      "BIG5": "0xC2C5",
+      "UNICODE": "0X85CD"
+    },
+    {
+      "BIG5": "0xA6BA",
+      "UNICODE": "0X6B7B"
+    },
+    {
+      "BIG5": "0xBBF2",
+      "UNICODE": "0X9EBC"
+    },
+    {
+      "BIG5": "0xBAE5",
+      "UNICODE": "0X7B8F"
+    },
+    {
+      "BIG5": "0x50",
+      "UNICODE": "0X50"
+    },
+    {
+      "BIG5": "0xA962",
+      "UNICODE": "0X5954"
+    },
+    {
+      "BIG5": "0xB6A7",
+      "UNICODE": "0X967D"
+    },
+    {
+      "BIG5": "0xB6CB",
+      "UNICODE": "0X50B7"
+    },
+    {
+      "BIG5": "0xA9C8",
+      "UNICODE": "0X6015"
+    },
+    {
+      "BIG5": "0xC15C",
+      "UNICODE": "0X7E37"
+    },
+    {
+      "BIG5": "0xA6B9",
+      "UNICODE": "0X6B64"
+    },
+    {
+      "BIG5": "0xACDF",
+      "UNICODE": "0X76FC"
+    },
+    {
+      "BIG5": "0xA95D",
+      "UNICODE": "0X591C"
+    },
+    {
+      "BIG5": "0xB25C",
+      "UNICODE": "0X6DDA"
+    },
+    {
+      "BIG5": "0xA641",
+      "UNICODE": "0X518D"
+    },
+    {
+      "BIG5": "0xADBB",
+      "UNICODE": "0X9999"
+    },
+    {
+      "BIG5": "0xA67E",
+      "UNICODE": "0X5E74"
+    },
+    {
+      "BIG5": "0xC1D3",
+      "UNICODE": "0X8F3E"
+    },
+    {
+      "BIG5": "0xB24F",
+      "UNICODE": "0X6DCB"
+    },
+    {
+      "BIG5": "0xA74E",
+      "UNICODE": "0X51B7"
+    },
+    {
+      "BIG5": "0xA45B",
+      "UNICODE": "0X4E45"
+    },
+    {
+      "BIG5": "0x52",
+      "UNICODE": "0X52"
+    },
+    {
+      "BIG5": "0xB1A8",
+      "UNICODE": "0X60C6"
+    },
+    {
+      "BIG5": "0xA5CD",
+      "UNICODE": "0X751F"
+    },
+    {
+      "BIG5": "0xB3E6",
+      "UNICODE": "0X55AE"
+    },
+    {
+      "BIG5": "0xAA4E",
+      "UNICODE": "0X6770"
+    },
+    {
+      "BIG5": "0xA4DF",
+      "UNICODE": "0X5FC3"
+    },
+    {
+      "BIG5": "0xA473",
+      "UNICODE": "0X5C71"
+    },
+    {
+      "BIG5": "0xA9F1",
+      "UNICODE": "0X653E"
+    },
+    {
+      "BIG5": "0xA66E",
+      "UNICODE": "0X597D"
+    },
+    {
+      "BIG5": "0xB0E9",
+      "UNICODE": "0X5708"
+    },
+    {
+      "BIG5": "0xB0A8",
+      "UNICODE": "0X99AC"
+    },
+    {
+      "BIG5": "0xABED",
+      "UNICODE": "0X6046"
+    },
+    {
+      "BIG5": "0xC3E4",
+      "UNICODE": "0X908A"
+    },
+    {
+      "BIG5": "0xAAF8",
+      "UNICODE": "0X9577"
+    },
+    {
+      "BIG5": "0xA8EC",
+      "UNICODE": "0X5230"
+    },
+    {
+      "BIG5": "0x61",
+      "UNICODE": "0X61"
+    },
+    {
+      "BIG5": "0xAAF9",
+      "UNICODE": "0X9580"
+    },
+    {
+      "BIG5": "0xABE7",
+      "UNICODE": "0X600E"
+    },
+    {
+      "BIG5": "0xC573",
+      "UNICODE": "0X5F4E"
+    },
+    {
+      "BIG5": "0xB94D",
+      "UNICODE": "0X904D"
+    },
+    {
+      "BIG5": "0xA9B9",
+      "UNICODE": "0X5F80"
+    },
+    {
+      "BIG5": "0xB74C",
+      "UNICODE": "0X5FAE"
+    },
+    {
+      "BIG5": "0xAAD6",
+      "UNICODE": "0X80AF"
+    },
+    {
+      "BIG5": "0xB05A",
+      "UNICODE": "0X8C48"
+    },
+    {
+      "BIG5": "0xA6ED",
+      "UNICODE": "0X4F4F"
+    },
+    {
+      "BIG5": "0xAAAA",
+      "UNICODE": "0X7267"
+    },
+    {
+      "BIG5": "0xBDFC",
+      "UNICODE": "0X8F2A"
+    },
+    {
+      "BIG5": "0xA7E9",
+      "UNICODE": "0X6298"
+    },
+    {
+      "BIG5": "0xB5D8",
+      "UNICODE": "0X83EF"
+    },
+    {
+      "BIG5": "0x74",
+      "UNICODE": "0X74"
+    },
+    {
+      "BIG5": "0xAE65",
+      "UNICODE": "0X5BB9"
+    },
+    {
+      "BIG5": "0xAC5C",
+      "UNICODE": "0X67AF"
+    },
+    {
+      "BIG5": "0x2E",
+      "UNICODE": "0X2E"
+    },
+    {
+      "BIG5": "0xAEF6",
+      "UNICODE": "0X6D6A"
+    },
+    {
+      "BIG5": "0xB67D",
+      "UNICODE": "0X958B"
+    },
+    {
+      "BIG5": "0xA8AD",
+      "UNICODE": "0X8EAB"
+    },
+    {
+      "BIG5": "0xA1B0",
+      "UNICODE": "0X203B"
+    },
+    {
+      "BIG5": "0xAC58",
+      "UNICODE": "0X67D4"
+    },
+    {
+      "BIG5": "0xBD74",
+      "UNICODE": "0X7DE3"
+    },
+    {
+      "BIG5": "0xA642",
+      "UNICODE": "0X51B0"
+    },
+    {
+      "BIG5": "0xABB0",
+      "UNICODE": "0X57CE"
+    },
+    {
+      "BIG5": "0xA540",
+      "UNICODE": "0X4E16"
+    },
+    {
+      "BIG5": "0xA6F7",
+      "UNICODE": "0X4F3D"
+    },
+    {
+      "BIG5": "0xA8C6",
+      "UNICODE": "0X4E8B"
+    },
+    {
+      "BIG5": "0x70",
+      "UNICODE": "0X70"
+    },
+    {
+      "BIG5": "0xA661",
+      "UNICODE": "0X5730"
+    },
+    {
+      "BIG5": "0xA974",
+      "UNICODE": "0X5B64"
+    },
+    {
+      "BIG5": "0xB1E6",
+      "UNICODE": "0X671B"
+    },
+    {
+      "BIG5": "0xAEE1",
+      "UNICODE": "0X6851"
+    },
+    {
+      "BIG5": "0xB5DB",
+      "UNICODE": "0X8457"
+    },
+    {
+      "BIG5": "0xBD73",
+      "UNICODE": "0X7DE8"
+    },
+    {
+      "BIG5": "0xBA71",
+      "UNICODE": "0X6B4C"
+    },
+    {
+      "BIG5": "0xC5A5",
+      "UNICODE": "0X807D"
+    },
+    {
+      "BIG5": "0xA7DA",
+      "UNICODE": "0X6211"
+    },
+    {
+      "BIG5": "0xB351",
+      "UNICODE": "0X88AB"
+    },
+    {
+      "BIG5": "0xA5DB",
+      "UNICODE": "0X77F3"
+    },
+    {
+      "BIG5": "0xB0FB",
+      "UNICODE": "0X5A49"
+    },
+    {
+      "BIG5": "0xBC76",
+      "UNICODE": "0X5F71"
+    },
+    {
+      "BIG5": "0xA4D3",
+      "UNICODE": "0X592A"
+    },
+    {
+      "BIG5": "0xB3F4",
+      "UNICODE": "0X582A"
+    },
+    {
+      "BIG5": "0xBC68",
+      "UNICODE": "0X5C64"
+    },
+    {
+      "BIG5": "0xA140",
+      "UNICODE": "0X3000"
+    },
+    {
+      "BIG5": "0xB8D5",
+      "UNICODE": "0X8A66"
+    },
+    {
+      "BIG5": "0x6F",
+      "UNICODE": "0X6F"
+    },
+    {
+      "BIG5": "0xBBEE",
+      "UNICODE": "0X9B42"
+    },
+    {
+      "BIG5": "0xA6A5",
+      "UNICODE": "0X620E"
+    },
+    {
+      "BIG5": "0xA4C0",
+      "UNICODE": "0X5206"
+    },
+    {
+      "BIG5": "0xA4E5",
+      "UNICODE": "0X6587"
+    },
+    {
+      "BIG5": "0xC4EA",
+      "UNICODE": "0X721B"
+    },
+    {
+      "BIG5": "0xA4B4",
+      "UNICODE": "0X4ECD"
+    },
+    {
+      "BIG5": "0xB65A",
+      "UNICODE": "0X8DDD"
+    },
+    {
+      "BIG5": "0xAEDA",
+      "UNICODE": "0X6839"
+    },
+    {
+      "BIG5": "0xA568",
+      "UNICODE": "0X53BB"
+    },
+    {
+      "BIG5": "0xB35C",
+      "UNICODE": "0X8A31"
+    },
+    {
+      "BIG5": "0xBDF5",
+      "UNICODE": "0X8E1E"
+    },
+    {
+      "BIG5": "0xB4B8",
+      "UNICODE": "0X6674"
+    },
+    {
+      "BIG5": "0xBD4C",
+      "UNICODE": "0X76E4"
+    },
+    {
+      "BIG5": "0xC0E9",
+      "UNICODE": "0X71E6"
+    },
+    {
+      "BIG5": "0xA5C1",
+      "UNICODE": "0X6C11"
+    },
+    {
+      "BIG5": "0x4D",
+      "UNICODE": "0X4D"
+    },
+    {
+      "BIG5": "0xA6BF",
+      "UNICODE": "0X6C5F"
+    },
+    {
+      "BIG5": "0xC3E8",
+      "UNICODE": "0X93E1"
+    },
+    {
+      "BIG5": "0xA46C",
+      "UNICODE": "0X5B50"
+    },
+    {
+      "BIG5": "0xB8D4",
+      "UNICODE": "0X8A73"
+    },
+    {
+      "BIG5": "0xB5E2",
+      "UNICODE": "0X83CA"
+    },
+    {
+      "BIG5": "0xB8CB",
+      "UNICODE": "0X88DD"
+    },
+    {
+      "BIG5": "0x2C",
+      "UNICODE": "0X2C"
+    },
+    {
+      "BIG5": "0x63",
+      "UNICODE": "0X63"
+    },
+    {
+      "BIG5": "0xAED1",
+      "UNICODE": "0X66F8"
+    },
+    {
+      "BIG5": "0xB0BE",
+      "UNICODE": "0X504F"
+    },
+    {
+      "BIG5": "0xABDD",
+      "UNICODE": "0X5F85"
+    },
+    {
+      "BIG5": "0xA5D5",
+      "UNICODE": "0X767D"
+    },
+    {
+      "BIG5": "0xB6C0",
+      "UNICODE": "0X9EC3"
+    },
+    {
+      "BIG5": "0xAD6E",
+      "UNICODE": "0X8981"
+    },
+    {
+      "BIG5": "0xA457",
+      "UNICODE": "0X4E0A"
+    },
+    {
+      "BIG5": "0xB6C5",
+      "UNICODE": "0X50B5"
+    },
+    {
+      "BIG5": "0xB872",
+      "UNICODE": "0X7FA8"
+    },
+    {
+      "BIG5": "0xA670",
+      "UNICODE": "0X5982"
+    },
+    {
+      "BIG5": "0xA4EB",
+      "UNICODE": "0X6708"
+    },
+    {
+      "BIG5": "0xB77C",
+      "UNICODE": "0X6703"
+    },
+    {
+      "BIG5": "0xB1D0",
+      "UNICODE": "0X6559"
+    },
+    {
+      "BIG5": "0xB5A7",
+      "UNICODE": "0X7B46"
+    },
+    {
+      "BIG5": "0xBBB4",
+      "UNICODE": "0X8F15"
+    },
+    {
+      "BIG5": "0xAAEF",
+      "UNICODE": "0X8FCE"
+    },
+    {
+      "BIG5": "0xAA78",
+      "UNICODE": "0X6CDB"
+    },
+    {
+      "BIG5": "0xB8A8",
+      "UNICODE": "0X843D"
+    },
+    {
+      "BIG5": "0xAC4B",
+      "UNICODE": "0X6625"
+    },
+    {
+      "BIG5": "0xB7CF",
+      "UNICODE": "0X7159"
+    },
+    {
+      "BIG5": "0x69",
+      "UNICODE": "0X69"
+    },
+    {
+      "BIG5": "0xAA4F",
+      "UNICODE": "0X677F"
+    },
+    {
+      "BIG5": "0x6D",
+      "UNICODE": "0X6D"
+    },
+    {
+      "BIG5": "0xB5A1",
+      "UNICODE": "0X7A97"
+    },
+    {
+      "BIG5": "0xB9DA",
+      "UNICODE": "0X5922"
+    },
+    {
+      "BIG5": "0xA4E8",
+      "UNICODE": "0X65B9"
+    },
+    {
+      "BIG5": "0xB0C5",
+      "UNICODE": "0X526A"
+    },
+    {
+      "BIG5": "0xA7F3",
+      "UNICODE": "0X66F4"
+    },
+    {
+      "BIG5": "0xAABD",
+      "UNICODE": "0X76F4"
+    },
+    {
+      "BIG5": "0xA5BC",
+      "UNICODE": "0X672A"
+    },
+    {
+      "BIG5": "0xB458",
+      "UNICODE": "0X5E7E"
+    },
+    {
+      "BIG5": "0xBCCB",
+      "UNICODE": "0X6A23"
+    },
+    {
+      "BIG5": "0xA6A8",
+      "UNICODE": "0X6210"
+    },
+    {
+      "BIG5": "0xAF64",
+      "UNICODE": "0X7559"
+    },
+    {
+      "BIG5": "0xADCC",
+      "UNICODE": "0X5011"
+    },
+    {
+      "BIG5": "0xA6D1",
+      "UNICODE": "0X8001"
+    },
+    {
+      "BIG5": "0xBDD6",
+      "UNICODE": "0X8AB0"
+    },
+    {
+      "BIG5": "0xA4E2",
+      "UNICODE": "0X624B"
+    },
+    {
+      "BIG5": "0xB751",
+      "UNICODE": "0X60F3"
+    },
+    {
+      "BIG5": "0xBAC9",
+      "UNICODE": "0X76E1"
+    },
+    {
+      "BIG5": "0xA76A",
+      "UNICODE": "0X5439"
+    },
+    {
+      "BIG5": "0xB4A4",
+      "UNICODE": "0X63E1"
+    },
+    {
+      "BIG5": "0xB6C3",
+      "UNICODE": "0X4E82"
+    },
+    {
+      "BIG5": "0xBFB3",
+      "UNICODE": "0X8208"
+    },
+    {
+      "BIG5": "0xB3A5",
+      "UNICODE": "0X91CE"
+    },
+    {
+      "BIG5": "0xA740",
+      "UNICODE": "0X4F5C"
+    },
+    {
+      "BIG5": "0xBAA5",
+      "UNICODE": "0X6F38"
+    },
+    {
+      "BIG5": "0xBAF4",
+      "UNICODE": "0X7DB2"
+    },
+    {
+      "BIG5": "0xA4A3",
+      "UNICODE": "0X4E0D"
+    },
+    {
+      "BIG5": "0xA477",
+      "UNICODE": "0X5DF2"
+    },
+    {
+      "BIG5": "0xA662",
+      "UNICODE": "0X5728"
+    },
+    {
+      "BIG5": "0xB1BC",
+      "UNICODE": "0X6389"
+    },
+    {
+      "BIG5": "0xA675",
+      "UNICODE": "0X5B88"
+    },
+    {
+      "BIG5": "0xADB7",
+      "UNICODE": "0X98A8"
+    },
+    {
+      "BIG5": "0xBA47",
+      "UNICODE": "0X6158"
+    },
+    {
+      "BIG5": "0xB5FC",
+      "UNICODE": "0X8A5E"
+    },
+    {
+      "BIG5": "0xB944",
+      "UNICODE": "0X9053"
+    },
+    {
+      "BIG5": "0xAF75",
+      "UNICODE": "0X771F"
+    },
+    {
+      "BIG5": "0xBBA1",
+      "UNICODE": "0X8AAA"
+    },
+    {
+      "BIG5": "0xA75F",
+      "UNICODE": "0X5426"
+    },
+    {
+      "BIG5": "0xC048",
+      "UNICODE": "0X96A8"
+    },
+    {
+      "BIG5": "0xA453",
+      "UNICODE": "0X53C8"
+    },
+    {
+      "BIG5": "0xA5A1",
+      "UNICODE": "0X592E"
+    },
+    {
+      "BIG5": "0xA147",
+      "UNICODE": "0XFF1A"
+    },
+    {
+      "BIG5": "0xBE68",
+      "UNICODE": "0X98B3"
+    },
+    {
+      "BIG5": "0xBB44",
+      "UNICODE": "0X805E"
+    },
+    {
+      "BIG5": "0xAC47",
+      "UNICODE": "0X6545"
+    },
+    {
+      "BIG5": "0xB9C4",
+      "UNICODE": "0X5606"
+    },
+    {
+      "BIG5": "0xA1B5",
+      "UNICODE": "0X25B3"
+    },
+    {
+      "BIG5": "0xA6D3",
+      "UNICODE": "0X800C"
+    },
+    {
+      "BIG5": "0xA4EC",
+      "UNICODE": "0X6728"
+    },
+    {
+      "BIG5": "0xC2F7",
+      "UNICODE": "0X96E2"
+    },
+    {
+      "BIG5": "0xB4B3",
+      "UNICODE": "0X6591"
+    },
+    {
+      "BIG5": "0xB752",
+      "UNICODE": "0X611B"
+    },
+    {
+      "BIG5": "0xA8BD",
+      "UNICODE": "0X91CC"
+    },
+    {
+      "BIG5": "0xB0F7",
+      "UNICODE": "0X5920"
+    },
+    {
+      "BIG5": "0xA6B6",
+      "UNICODE": "0X6731"
+    },
+    {
+      "BIG5": "0xA576",
+      "UNICODE": "0X53F2"
+    },
+    {
+      "BIG5": "0xB073",
+      "UNICODE": "0X9152"
+    },
+    {
+      "BIG5": "0xA9F6",
+      "UNICODE": "0X6613"
+    },
+    {
+      "BIG5": "0xB6C9",
+      "UNICODE": "0X50BE"
+    },
+    {
+      "BIG5": "0xB9B3",
+      "UNICODE": "0X50CF"
+    },
+    {
+      "BIG5": "0xAE7A",
+      "UNICODE": "0X5F31"
+    },
+    {
+      "BIG5": "0xB1A3",
+      "UNICODE": "0X60B5"
+    },
+    {
+      "BIG5": "0xABC7",
+      "UNICODE": "0X5BA4"
+    },
+    {
+      "BIG5": "0xB4F2",
+      "UNICODE": "0X6E56"
+    },
+    {
+      "BIG5": "0xAAE1",
+      "UNICODE": "0X82B1"
+    },
+    {
+      "BIG5": "0xC351",
+      "UNICODE": "0X9B4F"
+    },
+    {
+      "BIG5": "0xA4C6",
+      "UNICODE": "0X5316"
+    },
+    {
+      "BIG5": "0xA5C3",
+      "UNICODE": "0X6C38"
+    },
+    {
+      "BIG5": "0xAFF3",
+      "UNICODE": "0X8349"
+    },
+    {
+      "BIG5": "0xA949",
+      "UNICODE": "0X547C"
+    },
+    {
+      "BIG5": "0xC249",
+      "UNICODE": "0X9EDE"
+    },
+    {
+      "BIG5": "0xA6FD",
+      "UNICODE": "0X4F46"
+    },
+    {
+      "BIG5": "0xB5B4",
+      "UNICODE": "0X7D55"
+    },
+    {
+      "BIG5": "0xB6A1",
+      "UNICODE": "0X9593"
+    },
+    {
+      "BIG5": "0xA741",
+      "UNICODE": "0X4F60"
+    },
+    {
+      "BIG5": "0xABDC",
+      "UNICODE": "0X5F88"
+    },
+    {
+      "BIG5": "0xA464",
+      "UNICODE": "0X5343"
+    },
+    {
+      "BIG5": "0xA867",
+      "UNICODE": "0X72C2"
+    },
+    {
+      "BIG5": "0x65",
+      "UNICODE": "0X65"
+    }
+  ]
+}
